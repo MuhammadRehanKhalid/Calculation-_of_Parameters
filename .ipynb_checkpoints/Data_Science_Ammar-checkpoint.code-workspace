@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Data_Science_Ammar",
+			"path": "../Data_Science_Ammar"
+		},
+		{
+			"name": "Joint_IQ_Repo",
+			"path": "../Joint_IQ_Repo"
+		},
+		{
+			"name": "six-months_python_for_data_science-mentorship-program",
+			"path": "../six-months_python_for_data_science-mentorship-program"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
